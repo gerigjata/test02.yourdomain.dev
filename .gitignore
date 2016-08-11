@@ -1,0 +1,4 @@
+#WP excluded files
+../*
+#Except WP active theme
+!../test02.yourdomain.dev/wp-content/themes/twentysixteen/*
